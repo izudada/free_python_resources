@@ -1,4 +1,4 @@
-# Read Me Template
+# Free Python Resources
 
 ![Project Image](note/static/images/readme_screenshot.png)
 
@@ -30,6 +30,7 @@ As a growing python developer I found my skills with some loopholes, so I had to
 
 - [Rithmschool](https://www.rithmschool.com/courses/flask-fundamentals)
 - [Ucacity Fullstack](https://classroom.udacity.com/courses/ud088)
+- [Tech With Tim](https://www.youtube.com/watch?v=dam0GPOAvVI&list=LL&index=17&t=364s)
 
 
 ## Django
@@ -40,9 +41,10 @@ As a growing python developer I found my skills with some loopholes, so I had to
 ## References
 * [W3schools](https://www.w3schools.com)
 * [Rithmschool](https://www.rithmschool.com)
-* [Freecodecamp Youtube](https://getbootstrap.com/)
+* [Freecodecamp Youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Ucacity ](https://udacity.com)
 * [Scrimba](https://scrimba.com)
+* [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 
 
 ---
