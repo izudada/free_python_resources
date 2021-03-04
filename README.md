@@ -1,6 +1,6 @@
 # Free Python Resources
 
-![Project Image](note/static/images/readme_screenshot.png)
+![Project Image](python-logo-master-v3-TM-flattened.png)
 
 ---
 
