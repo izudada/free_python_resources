@@ -21,8 +21,9 @@ As a growing python developer I found my skills with some loopholes, so I had to
 
 ## For-Beginners
 
-* [W3schools](https://www.w3schools.com/python/default.asp)
-* [Scrimba](https://scrimba.com/learn/python)
+- [TechWorld with Nana](https://www.youtube.com/watch?v=t8pPdKYpowI) 
+- [W3schools](https://www.w3schools.com/python/default.asp)
+- [Scrimba](https://scrimba.com/learn/python)
 
 
 
@@ -39,6 +40,7 @@ As a growing python developer I found my skills with some loopholes, so I had to
 
 
 ## References
+* [TechWorld with Nana](https://dev.to/techworld_with_nana/python-tutorial-for-beginners-full-course-free-14md) 
 * [W3schools](https://www.w3schools.com)
 * [Rithmschool](https://www.rithmschool.com)
 * [Freecodecamp Youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
