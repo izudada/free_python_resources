@@ -32,6 +32,7 @@ As a growing python developer I found my skills with some loopholes, so I had to
 - [Rithmschool](https://www.rithmschool.com/courses/flask-fundamentals)
 - [Ucacity Fullstack](https://classroom.udacity.com/courses/ud088)
 - [Tech With Tim](https://www.youtube.com/watch?v=dam0GPOAvVI&list=LL&index=17&t=364s)
+- [Kathryn Hodge](https://www.linkedin.com/learning/advanced-python-working-with-databases/what-you-need-to-know)
 
 
 ## Django
@@ -47,6 +48,7 @@ As a growing python developer I found my skills with some loopholes, so I had to
 * [Ucacity ](https://udacity.com)
 * [Scrimba](https://scrimba.com)
 * [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
+* [linkedin learning](https://www.linkedin.com/learning)
 
 
 ---
