@@ -11,7 +11,7 @@
 - [Flask](#Flask)
 - [Django](#Django)
 - [Data Science](#DataScience)
-- [APIs_Web_Scraping](#APIs_Web_Scraping)
+- [APIs/Web Scraping](#APIs-Web-Scraping)
 - [References](#references)
 - [Author Info](#author-info)
 
@@ -45,7 +45,7 @@ As a growing python developer I found my skills with some loopholes, so I had to
 [Python Fundamentals for Data Science](https://www.dataquest.io/course/python-for-data-science-fundamentals/)
 
 
-## APIs/Web_Scraping
+## APIs-Web-Scraping
 [Scraping and APIs in Python](https://www.dataquest.io/course/apis-and-scraping/)
 
 
