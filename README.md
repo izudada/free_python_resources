@@ -10,6 +10,8 @@
 - [Python Basics](#For-Beginners)
 - [Flask](#Flask)
 - [Django](#Django)
+- [Data Science](#DataScience)
+- [APIs/Web_Scraping](#APIs/Web_Scraping)
 - [References](#references)
 - [Author Info](#author-info)
 
@@ -39,6 +41,13 @@ As a growing python developer I found my skills with some loopholes, so I had to
 [Freecodecamp Youtube](https://www.youtube.com/watch?v=F5mRW0jo-U4&list=LL&index=2&t=181s)
 
 
+## DataScience
+[Python Fundamentals for Data Science](https://www.dataquest.io/course/python-for-data-science-fundamentals/)
+
+
+## APIs/Web_Scraping
+[Scraping and APIs in Python](https://www.dataquest.io/course/apis-and-scraping/)
+
 
 ## References
 * [TechWorld with Nana](https://dev.to/techworld_with_nana/python-tutorial-for-beginners-full-course-free-14md) 
@@ -49,6 +58,7 @@ As a growing python developer I found my skills with some loopholes, so I had to
 * [Scrimba](https://scrimba.com)
 * [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 * [linkedin learning](https://www.linkedin.com/learning)
+* [Dataquest](https://www.dataquest.io/)
 
 
 ---
