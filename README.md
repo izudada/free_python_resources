@@ -11,7 +11,7 @@
 - [Flask](#Flask)
 - [Django](#Django)
 - [Data Science](#DataScience)
-- [APIs/Web_Scraping](#APIs/Web_Scraping)
+- [APIs/Web_Scraping](#APIs_Web_Scraping)
 - [References](#references)
 - [Author Info](#author-info)
 
